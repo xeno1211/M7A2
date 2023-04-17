@@ -1,0 +1,26 @@
+[
+    {
+        "customerName": "John Doe",
+        "email": "123-456-7890",
+        "loanAmount": 1000,
+        "interest": 3.5,
+        "loanTermYears": 10,
+        "type": "Auto"
+    },
+    {
+        "customerName": "Bob Smith",
+        "email": "123-456-7890",
+        "loanAmount": 50000,
+        "interest": 5.5,
+        "loanTermYears": 10,
+        "type": "Student Loan"
+    },
+    {
+        "customerName": "John Doe",
+        "email": "123-456-7890",
+        "loanAmount": 250000,
+        "interest": 2.5,
+        "loanTermYears": 30,
+        "type": "Home"
+    }
+]
